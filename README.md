@@ -2,6 +2,13 @@
 
 An automated Python tool that monitors live USD/TRY exchange rates in real-time and dispatches instant email alerts via SMTP whenever a pre-configured target rate threshold is exceeded.
 
+## 📸 Preview
+
+<p align="center">
+  <img src="images/terminal.png" width="45%" alt="Terminal Output" />
+  <img src="images/email.png" width="45%" alt="Email Alert" />
+</p>
+
 ##  Key Features
 
 * **Real-Time Exchange Data:** Fetches live currency rates using a lightweight REST API integration.
