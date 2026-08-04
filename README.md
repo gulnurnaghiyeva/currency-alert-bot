@@ -4,10 +4,11 @@ An automated Python tool that monitors live USD/TRY exchange rates in real-time 
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="images/terminal.png" width="45%" alt="Terminal Output" />
-  <img src="images/email.png" width="45%" alt="Email Alert" />
-</p>
+### Terminal Output
+![Terminal Output](images/terminal.png)
+
+### Email Alert
+![Email Alert](images/email.png)
 
 ##  Key Features
 
