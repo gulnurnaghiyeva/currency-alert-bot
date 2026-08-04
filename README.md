@@ -25,7 +25,8 @@ An automated Python tool that monitors live USD/TRY exchange rates in real-time 
 
 ##  Setup & Installation
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
-   git clone [https://github.com/gulnurnaghiyeva/currency-alert-bot.git](https://github.com/gulnurnaghiyeva/currency-alert-bot.git)
+   git clone https://github.com/gulnurnaghiyeva/currency-alert-bot.git
    cd currency-alert-bot
+   ```
